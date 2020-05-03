@@ -121,5 +121,12 @@ p {
 				border-radius: 50%;
 				}
 
+.column {
+				min-width: 300px;
+				display: inline-block;
+				vertical-align: top;
+                                float: right;
+				}
+
 				
 				
