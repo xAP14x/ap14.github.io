@@ -30,7 +30,7 @@ body {
    float: left;
    margin-left: 20px;
    
-   font-size: 25px;
+   font-size: 20px;
    font-weight: bold;
    }
    
@@ -44,7 +44,7 @@ body {
 				
 #header-nav li {
 				display: inline;
-				padding-left: 20px;
+				padding-left: 15px;
 				text-weight: bold; 
 				}
 
