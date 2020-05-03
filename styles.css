@@ -120,13 +120,3 @@ p {
 .post-author img, .about-author img {
 				border-radius: 50%;
 				}
-
-.column-w {
-				min-width: 300px;
-				display: inline-block;
-				vertical-align: top;
-                                float: right;
-				}
-
-				
-				
